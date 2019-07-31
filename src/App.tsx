@@ -6,6 +6,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
+        <div style={{width:200, height:200, backgroundColor: 'red' }} />
         <LineAnimationCanvas />
       </header>
     </div>
